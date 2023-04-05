@@ -1,0 +1,1 @@
+This is a sample text file. It contains a few lines of text for you to practice reading with your Python program. You can use this text file to count the number of words in it. Good luck!
